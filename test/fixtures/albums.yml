@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Album_Title: MyString
+  Year: 1
+  No_of_Copies: 1
+  Artist_id: 1
+
+two:
+  Album_Title: MyString
+  Year: 1
+  No_of_Copies: 1
+  Artist_id: 1
